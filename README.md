@@ -2,8 +2,7 @@
 This is the Awasunu scripting language.
 
 ## Foundational Webfiction
-[Uploaded Fairy Webfiction]([https://lwflouisa.github.io/pages/prose/UploadedFairyWebfiction/)
-
+[Uploaded Fairy Webfiction](https://lwflouisa.github.io/pages/prose/UploadedFairyWebfiction/)
 [Uploaded Fairy Webcomic](https://lwflouisa.github.io/pages/webcomics/UploadedFairy/)
 
 ## Foundational Conlang
