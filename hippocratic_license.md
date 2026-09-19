@@ -1,3 +1,6 @@
+## Primary License
+This covers the license related to the scripting language itself.
+
 **HIPPOCRATIC LICENSE**
 
 **Version 3.0, October 2021**
@@ -155,4 +158,9 @@ _This section identifies additional individuals or entities that a Licensee coul
 
 [8.8.](#8.8) _Entire License_: This is the entire License between the Licensor and Licensee with respect to the claims released herein and that the consideration stated herein is the only consideration or compensation to be paid or exchanged between them for this License. This License cannot be modified or amended except in a writing signed by Licensor and Licensee.
 
+## Secondary License
+This covers the games that I produce with this language.
+
+
+##
 [8.9.](#8.9) _Successors and Assigns_: This License shall be binding upon and inure to the benefit of the Licensor’s and Licensee’s respective heirs, successors, and assigns.
